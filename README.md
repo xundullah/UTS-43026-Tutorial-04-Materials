@@ -2,7 +2,8 @@
 
 📚 **UTS-43026 Energy Economics and Policy**  
 👨‍🏫 **Instructor**: Raihan Bin Mofidul  
-📂 **Repository**: `UTS-43026-Tutorial-04-Materials`
+🔗 **GitHub Repository**: [https://github.com/xundullah/UTS-43026-Tutorial-04-Materials](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials)
+
 
 This repository contains **Jupyter Notebooks** and tutorial resources for **Tutorial 4**, focusing on **Transmission Networks and Electricity Markets**. Students will explore fundamental concepts such as power flow feasibility, marginal pricing, congestion revenue, and the economic impact of transmission constraints.
 
