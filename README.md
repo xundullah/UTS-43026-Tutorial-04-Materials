@@ -1,61 +1,60 @@
 # ⚡ Tutorial 4: Transmission Networks and Energy Economics
 
 📚 **UTS-43026 Energy Economics and Policy**  
-👨‍🏫 **Instructor**: Raihan Bin Mofidul  
-🔗 **GitHub Repository**: [https://github.com/xundullah/UTS-43026-Tutorial-04-Materials](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials)
+👨‍🏫 **Instructor**: xundullah  
+🔗 **GitHub Repository**: [UTS-43026-Tutorial-04-Materials](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials)
 
-
-This repository contains **Jupyter Notebooks** and tutorial resources for **Tutorial 4**, focusing on **Transmission Networks and Electricity Markets**. Students will explore fundamental concepts such as power flow feasibility, marginal pricing, congestion revenue, and the economic impact of transmission constraints.
+This repository contains **Jupyter Notebooks** and tutorial materials for **Tutorial 4**, covering the fundamentals of **transmission networks, electricity markets**, and **economic dispatch**.
 
 ---
 
 ## 📁 Repository Structure
 
-### 🔹 `Solving Problems/`
+### 🔹 Solving Problems
 
-Contains fully worked-out Jupyter Notebooks for problems discussed in the lecture slides:
+Worked solutions for each major textbook-style problem:
 
-| Notebook | Description |
-|----------|-------------|
-| `5.1.ipynb` | Power flow feasibility across a 3-bus system |
-| `5.2.ipynb` | Two-bus system with marginal cost pricing and economic dispatch |
-| `5.3.ipynb` | Revenue and payment breakdown for generators and consumers |
-| `5.4.ipynb` | Congestion surplus analysis based on price differences and flows |
-
----
-
-### 🔹 `Tutorial Exercises/`
-
-Contains modified practice exercises for further learning and testing:
-
-| Notebook | Description |
-|----------|-------------|
-| `5.1.ipynb` | Modified power flow feasibility scenario |
-| `5.2.ipynb` | Modified two-bus dispatch and LMP-based pricing cases |
+| Problem | Description | Link |
+|--------|-------------|------|
+| 5.1 | Power flow feasibility in a 3-bus network | [🔗 View](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials/blob/main/Solving%20Problems/5.1.ipynb) |
+| 5.2 | Two-bus system with marginal cost pricing | [🔗 View](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials/blob/main/Solving%20Problems/5.2.ipynb) |
+| 5.3 | Generator revenue and consumer payments | [🔗 View](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials/blob/main/Solving%20Problems/5.3.ipynb) |
+| 5.4 | Congestion surplus calculation | [🔗 View](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials/blob/main/Solving%20Problems/5.4.ipynb) |
 
 ---
 
-### 🔹 `Tutorial Notes/`
+### 🔹 Tutorial Exercises
 
-| File | Description |
-|------|-------------|
-| `Tutorial 4 - Transmission networks and Electricity Market.pptx` | Official lecture slides from Tutorial 4 |
+Custom-designed practice problems to strengthen understanding:
 
----
-
-## 📌 Learning Outcomes
-
-By engaging with this tutorial, you will learn to:
-
-- Apply DC power flow analysis to simple network models
-- Interpret locational marginal pricing (LMP) outcomes
-- Calculate generator revenue and consumer payments
-- Understand the role of congestion surplus in electricity markets
-- Evaluate who benefits from transmission access
+| Exercise | Description | Link |
+|----------|-------------|------|
+| 5.1 | Modified 3-bus feasibility check | [🔗 View](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials/blob/main/Tutorial%20Exercises/5.1.ipynb) |
+| 5.2 | Modified two-bus LMP and dispatch scenario | [🔗 View](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials/blob/main/Tutorial%20Exercises/5.2.ipynb) |
 
 ---
 
-## 📥 How to Use
+### 🔹 Tutorial Notes
+
+| File | Description | Link |
+|------|-------------|------|
+| `Tutorial 4 - Transmission networks and Electricity Market.pptx` | Lecture slides used during Tutorial 4 | [📑 Download](https://github.com/xundullah/UTS-43026-Tutorial-04-Materials/blob/main/Tutorial%20Notes/Tutorial%204%20-%20Transmission%20networks%20and%20Electricity%20Market.pptx) |
+
+---
+
+## 🎯 Learning Objectives
+
+By working through these materials, you will learn to:
+
+- Apply DC power flow analysis and feasibility checks
+- Compute Locational Marginal Prices (LMPs)
+- Evaluate congestion impacts and surplus
+- Calculate revenues and payments across the network
+- Understand economic incentives in transmission-constrained electricity systems
+
+---
+
+## 🛠️ How to Use
 
 1. Clone this repo:
    ```bash
